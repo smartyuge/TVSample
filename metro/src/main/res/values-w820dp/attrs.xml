@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 倒影控件属性 -->
+    <declare-styleable name="reflectItemView">
+        <attr name="isReflect" format="boolean" />
+    </declare-styleable>
+
+
+    <attr name="scale" format="integer" />
+    <attr name="scaleable" format="boolean" />
+    <attr name="borderDrawable" format="reference" />
+    <attr name="borderSize" format="dimension" />
+    <attr name="delay" format="integer" />
+
+    <attr name="animationType">
+        <enum name="DEFAULT" value="0"></enum>
+        <enum name="TRANSLATE" value="1"></enum>
+    </attr>
+
+    <attr name="durationLarge" format="integer" />
+    <attr name="durationSmall" format="integer" />
+
+    <declare-styleable name="TvLinearLayout">
+        <attr name="scaleable" />
+        <attr name="borderDrawable" />
+        <attr name="borderSize" />
+        <attr name="scale" />
+        <attr name="delay" />
+        <attr name="durationLarge" />
+        <attr name="durationSmall" />
+        <attr name="animationType" />
+    </declare-styleable>
+
+
+    <declare-styleable name="TvRelativeLayout">
+        <attr name="scaleable" />
+        <attr name="borderDrawable" />
+        <attr name="borderSize" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="TvTextView">
+        <attr name="scaleable" />
+        <attr name="borderDrawable" />
+        <attr name="number" format="integer" />
+        <attr name="numberColor" format="color" />
+
+    </declare-styleable>
+
+    <declare-styleable name="SmoothHorizontalScrollView">
+        <attr name="fadingEdge" format="integer" />
+
+    </declare-styleable>
+
+    <declare-styleable name="MetroItemRound">
+        <attr name="bottomRightRadius" format="dimension" />
+        <attr name="bottomLeftRadius" format="dimension" />
+        <attr name="radius"  format="dimension" />
+        <attr name="topRightRadius" format="dimension" />
+        <attr name="topLeftRadius" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
