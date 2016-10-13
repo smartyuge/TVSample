@@ -1,4 +1,6 @@
-# TVSample
+# 一些Android TV相关实例 
+
+##1.仿泰捷视频最新TV版 Metro UI
 
 Android TV发展离不开Metro UI,先看最新的泰捷TV的会员区效果图，属于典型的Metro风格，如下：
 
