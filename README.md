@@ -2,7 +2,7 @@
 
 Android TV发展离不开Metro UI,先看最新的泰捷TV的会员区效果图，属于典型的Metro风格，如下：
 
-![这里写图片描述](http://img.blog.csdn.net/20161013192605970)
+![这里写图片描述](/images/device-2016-10-13-170829.png)
 
 ###什么是Metro UI:
 
@@ -16,23 +16,23 @@ Metro 界面，开机后首先映入眼帘的第一个界面，个人感觉主要是为了触屏设备而设计的，
 
 今天来仿照并实现这个Metro界面，以下是我实现的效果图：
 
-![这里写图片描述](http://img.blog.csdn.net/20161013192627940)
+![这里写图片描述](/images/device-2016-10-13-192016.png)
 
-![这里写图片描述](http://img.blog.csdn.net/20161013192614377)
+![这里写图片描述](/images/device-2016-10-13-191954.png)
 
 gif图：(TV上没有好的录屏工具，盒子系统一般低于5.0，有些厂商已经升到5.0，我用的是i71，很老的盒子，基于API 17, 4.2.2的系统)
 
-![这里写图片描述](http://img.blog.csdn.net/20161013192643236)
+![这里写图片描述](/images/metro.gif)
 
 说这么多，来看下代码实现吧，
 先看下其中一个MetroItem的布局：
 
-![这里写图片描述](http://img.blog.csdn.net/20161013213408973)
+![这里写图片描述](/images/xml.png)
 
 每一个MetroItemFrameLayout下包含一些子View,ImageView就是对应图片，CornerVew表示上下左右的的角标，TextView表示下方的描述，这些可视具体情况进行选择。
 
-![这里写图片描述](http://img.blog.csdn.net/20161013213422099)
-![这里写图片描述](http://img.blog.csdn.net/20161013213432479)
+![这里写图片描述](/images/metro1.png)
+![这里写图片描述](/images/metro2.png)
 
 还有其他代码分析陆续在博客上更新。
 
