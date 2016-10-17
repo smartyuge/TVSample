@@ -1,49 +1,55 @@
-# 一些Android TV相关实例 
 
-##1.仿泰捷视频最新TV版 Metro UI
+# Some Android TV related Sample
 
-Android TV发展离不开Metro UI,先看最新的泰捷TV的会员区效果图，属于典型的Metro风格，如下：
+##[中文README](/README_CN.md)
+
+---
+
+##1.Imitation of tai jie latest TV video version of the Metro UI
+
+Android TV development cannot leave the Metro UI, first to see the latest Thai TV of the members area renderings, belongs to the typical style of Metro, as follows:
 
 ![这里写图片描述](/images/device-2016-10-13-170829.png)
 
-###什么是Metro UI:
+###What is the Metro UI:
 
-Metro的设计意念来源于交通局巴士站站牌机场和地铁的指示牌给了微软设计团队灵感，设计团队说Metro是来源于美国华盛顿州金县都会交通局（King County Metro）的标识设计，其风格大量采用大字体，能吸引受众之注意力。微软认为Metro设计[2]  主题应该是：“光滑、快、现代”。Metro的图标设计也会不同于Android和iOS。
+Metro design idea comes from transport airport the sign at the bus stop and subway sign inspired Microsoft design team, design team said Metro is derived from the King County, Washington, us will transport (the King County Metro) logo design, the style of use large fonts, can attract the attention of the audience. Microsoft thinks Metro design [2] topic should be: \"smooth, fast, modern\". Metro also differs from that of Android and iOS icon design.
 
-###Metro UI软件
+###Metro UI software
 
-Metro是微软为了方便开发者编写Metro风格的程序而提供的一个开发平台，可以调用微软WinRT暴露出来的接口编写Metro风格的程序。 而Metro风格的控件[3]  拓展Win8标准控件方法和属性,实现一些新的功能,如Component One Studio for WinRT XAML，Component One Studio for WinJS。在Windows8中开放的Windows应用程序市场也使用并推荐采用Metro风格界面的应用程序.
+Metro is for the convenience of Microsoft developers write Metro style applications and provide a development platform, you can call Microsoft WinRT exposed interface write Metro style applications. And Metro style controls [3] to expand doing standard control methods and properties, some new functions, such as Component One Studio for WinRT XAML, Component One Studio for WinJS. In Windows open Windows application market also use and Metro style interface is recommended for the application.
 
-Metro 界面，开机后首先映入眼帘的第一个界面，个人感觉主要是为了触屏设备而设计的，但是在TV中使用起来也一样的方便。我们在Desktop中安装的程序以及 在应用商店中下载的程序都会在Metro中展现出来，所以我们要定期或不定期的对其进行分组、排序、整理，以方便我们的操作以及界面的美观。Metro界面同时提供了便捷的选项，使操作更加方便。
+Metro interface, boot after first greeted the first interface, personal feeling is mainly designed to touchscreen devices, but also to use the same in the TV is convenient. We installed in the Desktop program and download in the app store will be displayed in the Metro, so we should regularly or irregularly on the grouping, sequencing, sorting, to facilitate our operation and beautiful interface. Metro interface provides a convenient options at the same time, make the operation more convenient.
 
-今天来仿照并实现这个Metro界面，以下是我实现的效果图：
+Today to follow and implement the Metro interface, the following is my implementation effect:
 
 ![这里写图片描述](/images/device-2016-10-13-192016.png)
 
 ![这里写图片描述](/images/device-2016-10-13-191954.png)
 
-gif图：(TV上没有好的录屏工具，盒子系统一般低于5.0，有些厂商已经升到5.0，我用的是i71，很老的盒子，基于API 17, 4.2.2的系统)
+GIF: (for has not a good record on TV screen tools, box system generally less than 5.0, some manufacturers have rose to 5.0, I'm using the i71, very old box, based on the API 17, 4.2.2)
 
 ![这里写图片描述](/images/metro.gif)
 
-##2.仿腾讯视频TV版(云视听·极光) 列表页(用RecycleView + GridLayoutManager实现)
-先看最新的腾讯视频TV版的电视剧列表页，如下：
+##2.Imitation tencent video TV version (cloud audio-visual aurora) list page( use RecycleView plus GridLayoutManager)
+
+To see the latest tencent video TV version of the TV playlist page, as follows:
 
 ![这里写图片描述](/images/device-2016-10-17-141123.png)
 
-今天来仿照并实现这个腾讯视频TV版的电视剧列表页面，以下是我实现的效果图：
+Today to follow and implement the tencent video TV version of the TV playlist page, the following is my implementation effect:
 
 ![这里写图片描述](/images/device-2016-10-17-151218.png)
 
 ![这里写图片描述](/images/device-2016-10-17-145135.png)
 
-gif图：
+gif：
 
 ![这里写图片描述](/images/recycleview_1.gif)
 ![这里写图片描述](/images/recycleview_2.gif)
 
 
-####欢迎关注我的个人公众号，android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐
+####Welcome to follow my personal WeChat Official Accounts, useful android technology, conclusion for bug, the FrameWork source code analysis, plugin research, the latest open source projects recommended
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
 
 License
