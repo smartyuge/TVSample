@@ -37,6 +37,10 @@ gif图：(TV上没有好的录屏工具，盒子系统一般低于5.0，有些厂商已经升到5.0，我用的是
 
 ![这里写图片描述](/images/device-2016-10-17-145135.png)
 
+gif图：
+![这里写图片描述](/images/recycleview_1.gif)
+![这里写图片描述](/images/recycleview_2.gif)
+
 
 ####欢迎关注我的个人公众号，android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
