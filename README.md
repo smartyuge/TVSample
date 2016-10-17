@@ -26,17 +26,17 @@ gif图：(TV上没有好的录屏工具，盒子系统一般低于5.0，有些厂商已经升到5.0，我用的是
 
 ![这里写图片描述](/images/metro.gif)
 
-说这么多，来看下代码实现吧，
-先看下其中一个MetroItem的布局：
+##2.仿腾讯视频TV版(云视听·极光) 列表页(用RecycleView + GridLayoutManager实现)
+先看最新的腾讯视频TV版的电视剧列表页，如下：
 
-![这里写图片描述](/images/xml.png)
+![这里写图片描述](/images/device-2016-10-17-141123.png)
 
-每一个MetroItemFrameLayout下包含一些子View,ImageView就是对应图片，CornerVew表示上下左右的的角标，TextView表示下方的描述，这些可视具体情况进行选择。
+今天来仿照并实现这个腾讯视频TV版的电视剧列表页面，以下是我实现的效果图：
 
-![这里写图片描述](/images/metro1.png)
-![这里写图片描述](/images/metro2.png)
+![这里写图片描述](/images/device-2016-10-17-151218.png)
 
-还有其他代码分析陆续在博客上更新。
+![这里写图片描述](/images/device-2016-10-17-145135.png)
+
 
 ####欢迎关注我的个人公众号，android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
