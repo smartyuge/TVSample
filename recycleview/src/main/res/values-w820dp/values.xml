@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CornerVew">
+        <attr name="cv_text" format="string" />
+        <attr name="cv_text_color" format="color" />
+        <attr name="cv_text_size" format="dimension" />
+        <attr name="cv_text_bold" format="boolean" />
+        <attr name="cv_text_all_caps" format="boolean" />
+        <attr name="cv_background_color" format="color" />
+        <attr name="cv_min_size" format="dimension" />
+        <attr name="cv_padding" format="dimension" />
+        <attr name="cv_gravity" format="enum">
+            <enum name="TOP_LEFT" value="51" />
+            <enum name="TOP_RIGHT" value="53" />
+            <enum name="BOTTOM_LEFT" value="83" />
+            <enum name="BOTTOM_RIGHT" value="85" />
+        </attr>
+        <attr name="cv_fill_triangle" format="boolean" />
+    </declare-styleable>
+</resources>
