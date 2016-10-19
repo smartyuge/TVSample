@@ -1,1 +1,1 @@
-include ':metro'
+include ':metro', ':recycleview'
