@@ -112,7 +112,7 @@ public class DetailListActivity extends Activity {
     }
 
     private void loadRecyclerViewMenuItem() {
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.firstRecyclerView);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.ry_menu_item);
         GridLayoutManager layoutManager = new GridLayoutManager(this, 1);
         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(layoutManager);
@@ -122,7 +122,7 @@ public class DetailListActivity extends Activity {
     }
 
     private void loadDataForRecyclerViewGridLayout() {
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.secondRecyclerView);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.ry_detail_list);
         GridLayoutManager gridlayoutManager = new AutoLayoutManager(this, 4);
         gridlayoutManager.setOrientation(GridLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(gridlayoutManager);
