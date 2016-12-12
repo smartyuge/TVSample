@@ -1,7 +1,9 @@
 
 # Some Android TV related Sample
 
-##[ÖĞÎÄREADME](/README_CN.md)
+##[ä¸­æ–‡README](/README_CN.md)
+
+Android TVå¼€å‘äº¤æµç¾¤ï¼š135622564
 
 ---
 
@@ -9,7 +11,7 @@
 
 Android TV development cannot leave the Metro UI, first to see the latest Thai TV of the members area renderings, belongs to the typical style of Metro, as follows:
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-13-170829.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-13-170829.png)
 
 ###What is the Metro UI:
 
@@ -23,34 +25,34 @@ Metro interface, boot after first greeted the first interface, personal feeling 
 
 Today to follow and implement the Metro interface, the following is my implementation effect:
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-13-192016.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-13-192016.png)
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-13-191954.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-13-191954.png)
 
 GIF: (for has not a good record on TV screen tools, box system generally less than 5.0, some manufacturers have rose to 5.0, I'm using the i71, very old box, based on the API 17, 4.2.2)
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/metro.gif)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/metro.gif)
 
 ##2.Imitation tencent video TV version (cloud audio-visual aurora) list page( use RecycleView plus GridLayoutManager)
 
 To see the latest tencent video TV version of the TV playlist page, as follows:
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-17-141123.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-17-141123.png)
 
 Today to follow and implement the tencent video TV version of the TV playlist page, the following is my implementation effect:
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-17-151218.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-17-151218.png)
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/device-2016-10-17-145135.png)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/device-2016-10-17-145135.png)
 
-gif£º
+gifï¼š
 
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/recycleview_1.gif)
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](/images/recycleview_2.gif)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/recycleview_1.gif)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](/images/recycleview_2.gif)
 
 
 ####Welcome to follow my personal WeChat Official Accounts, useful android technology, conclusion for bug, the FrameWork source code analysis, plugin research, the latest open source projects recommended
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
 
 License
 --------
