@@ -3,6 +3,10 @@
 
 ##[中文README](/README_CN.md)
 
+更多TV相关，欢迎关注公众号：
+
+![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
+
 Android TV开发交流群：135622564
 
 ---
