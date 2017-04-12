@@ -1,7 +1,7 @@
 
 # Some Android TV related Sample
 
-##[中文README](/README_CN.md)
+## [中文README](/README_CN.md)
 
 更多TV相关，欢迎关注公众号：
 
@@ -11,17 +11,17 @@ Android TV开发交流群：135622564
 
 ---
 
-##1.Imitation of tai jie latest TV video version of the Metro UI
+## 1.Imitation of tai jie latest TV video version of the Metro UI
 
 Android TV development cannot leave the Metro UI, first to see the latest Thai TV of the members area renderings, belongs to the typical style of Metro, as follows:
 
 ![这里写图片描述](/images/device-2016-10-13-170829.png)
 
-###What is the Metro UI:
+### What is the Metro UI:
 
 Metro design idea comes from transport airport the sign at the bus stop and subway sign inspired Microsoft design team, design team said Metro is derived from the King County, Washington, us will transport (the King County Metro) logo design, the style of use large fonts, can attract the attention of the audience. Microsoft thinks Metro design [2] topic should be: \"smooth, fast, modern\". Metro also differs from that of Android and iOS icon design.
 
-###Metro UI software
+### Metro UI software
 
 Metro is for the convenience of Microsoft developers write Metro style applications and provide a development platform, you can call Microsoft WinRT exposed interface write Metro style applications. And Metro style controls [3] to expand doing standard control methods and properties, some new functions, such as Component One Studio for WinRT XAML, Component One Studio for WinJS. In Windows open Windows application market also use and Metro style interface is recommended for the application.
 
