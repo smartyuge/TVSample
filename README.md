@@ -55,7 +55,7 @@ gif：
 ![这里写图片描述](/images/recycleview_2.gif)
 
 
-####Welcome to follow my personal WeChat Official Accounts, useful android technology, conclusion for bug, the FrameWork source code analysis, plugin research, the latest open source projects recommended
+#### Welcome to follow my personal WeChat Official Accounts, useful android technology, conclusion for bug, the FrameWork source code analysis, plugin research, the latest open source projects recommended
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
 
 License
